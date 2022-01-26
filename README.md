@@ -1,6 +1,6 @@
 # My_Portfolio
 
-### URL : https://github.com/alsornak/My_Portfolio
+### URL : https://alsornak.github.io/My_Portfolio/
 
 ## Task
 
@@ -20,7 +20,7 @@ I am updating my portfolio page and other materials to build toward being employ
 ```
 
 ## Mock-Up
-![screenshot of webpage](./assets/portfolio.png)
+![screenshot of webpage](./Assets/portfolio.png)
 
 
 ## Built With
