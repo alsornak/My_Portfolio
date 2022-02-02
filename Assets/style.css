@@ -93,6 +93,9 @@ div.justify {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   color: rgb(83, 82, 82);
+  padding: 10px 0px;
+  font-weight: bolder;
+  font-size: larger;
 }
 
 div.pad > p {
@@ -204,7 +207,7 @@ a#footer-link {
 
 h2.h-odd,
 img {
-  text-align: right;
+  text-align: center;
 }
 
 div.portfolio-grid > img {
