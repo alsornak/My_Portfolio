@@ -94,8 +94,6 @@ div.justify {
   grid-template-rows: auto;
   color: rgb(83, 82, 82);
   padding: 10px 0px;
-  font-weight: bolder;
-  font-size: larger;
 }
 
 div.pad > p {
@@ -139,13 +137,14 @@ li {
 }
 
 a {
-  color: rgb(240, 132, 30);
+  color: #3a3939;
   text-decoration: none;
   padding-right: 0.5em;
   padding-left: 0.5em;
   font-family: "Arial", sans-serif;
-  font-weight: Extra-bold;
   text-transform: uppercase;
+  font-weight: bolder;
+  font-size: larger;
 }
 
 li:hover {
@@ -207,7 +206,7 @@ a#footer-link {
 
 h2.h-odd,
 img {
-  text-align: center;
+  text-align: left;
 }
 
 div.portfolio-grid > img {
