@@ -136,11 +136,12 @@ li {
 }
 
 a {
-  color: rgb(27, 24, 226);
+  color: rgb(240, 132, 30);
   text-decoration: none;
   padding-right: 0.5em;
   padding-left: 0.5em;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Arial", sans-serif;
+  font-weight: Extra-bold;
   text-transform: uppercase;
 }
 
