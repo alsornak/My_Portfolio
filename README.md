@@ -14,9 +14,9 @@ I am updating my portfolio page and other materials to build toward being employ
 
 * Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
-* Updated resume
+* Updated resume which has a link to a downloadable PDF.
 
-* Updated LinkedIn profile
+* Updated LinkedIn profile.
 ```
 
 ## Mock-Up
