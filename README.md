@@ -8,6 +8,18 @@
 I am updating my portfolio page and other materials to build toward being employer-competitive.This site will run in the browser and feature dynamically updated HTML and CSS.
 ```
 
+## Table of Contents
+- [Requirements](#requirements)
+
+- [Mock-Up](#mock-up)
+
+- [Mock-Up](#Mock-Up)
+
+- [Built With](#built-with)
+
+- [Contributors](#contributors)
+
+
 ## Requirements
 ```md
 * Updated portfolio featuring Project 1 and two exemplary homework assignments.
@@ -31,3 +43,6 @@ I am updating my portfolio page and other materials to build toward being employ
 * Animate.css
 * Font Awesome
 ```
+
+## Contributors
+Sorna Kesavan ©2022 All Rights Reserved.
