@@ -13,8 +13,6 @@ I am updating my portfolio page and other materials to build toward being employ
 
 - [Mock-Up](#mock-up)
 
-- [Mock-Up](#Mock-Up)
-
 - [Built With](#built-with)
 
 - [Contributors](#contributors)
