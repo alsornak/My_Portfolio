@@ -1,6 +1,6 @@
 # My_Portfolio
 
-### URL : https://alsornak.github.io/My_Portfolio/
+### URL : https://alsornak.github.io/updated-portfolio/
 
 ## Task
 
