@@ -157,7 +157,7 @@ a:hover {
 
 footer {
   text-align: center;
-  color: rgb(215, 209, 209);
+  color: rgb(19, 18, 18);
   margin: 10px 0;
 }
 
@@ -197,7 +197,7 @@ div.portfolio-style > p {
 
 a#footer-link {
   text-transform: lowercase;
-  color: rgb(215, 209, 209);
+  color: rgb(19, 18, 18);
   text-align: right;
   border-left: 1px dotted rgb(221, 198, 198);
   padding-right: 0;
