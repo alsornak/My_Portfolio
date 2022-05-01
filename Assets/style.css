@@ -15,7 +15,7 @@ h1.animate__animated.animate__fadeIn {
 header.container {
   height: 15em;
   display: grid;
-  background-image: url(bk3.jpg);
+  background-image: url(block.jpg);
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
@@ -74,7 +74,7 @@ h2.h-even {
 .wrapper > div.pad:nth-child(even) {
   box-shadow: inset 0 0 15px rgb(189, 183, 183);
 
-  background-image: url(bk3.jpg);
+  background-image: url(block.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
